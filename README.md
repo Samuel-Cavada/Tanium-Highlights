@@ -5,3 +5,10 @@
 </p>
 
 # Tanium-Highlights
+
+
+➜ Collected records and sent out updates and patches to Microsoft 365, Teams, Oracle, and Chrome via Tanium, ensuring
+compliance for more than hundreds of devices on base.
+
+
+
