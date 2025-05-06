@@ -11,3 +11,5 @@
 compliance for more than hundreds of devices on base.
 
 ➜ Conducted system inventory scans and vulnerability assessments using Tanium, identifying out-of-date assets and misconfigurations.
+
+➜ Conducted system inventory scans and vulnerability assessments using Tanium, identifying out-of-date assets and misconfigurations.
