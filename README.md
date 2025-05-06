@@ -6,10 +6,5 @@
 
 # Tanium-Highlights
 
-
-➜ Collected records and sent out updates and patches to Microsoft 365, Teams, Oracle, and Chrome via Tanium, ensuring
-compliance for more than hundreds of devices on base.
-
-➜ Conducted system inventory scans and vulnerability assessments using Tanium, identifying out-of-date assets and misconfigurations.
-
-➜ Conducted system inventory scans and vulnerability assessments using Tanium, identifying out-of-date assets and misconfigurations.
+➜ Collected records and deployed updates to Microsoft 365, Teams, Oracle, and Chrome via Tanium, ensuring compliance across hundreds of devices on base.  
+➜ Conducted system inventory scans and vulnerability assessments using Tanium, identifying out-of-date assets and configuration issues.
